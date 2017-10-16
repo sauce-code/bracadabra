@@ -1,0 +1,100 @@
+
+body 
+
+
+
+	html, body {
+  	font: 100%/150% "Bitstream Charter", Arial, calibri, helvetica,sans-serif;
+	}
+	html, body, form, fieldset, table, tr, td, img {
+    margin: 0;
+    padding: 0;
+    font: 100%/150% "Bitstream Charter", calibri,helvetica,sans-serif;
+	}
+
+	input, button, select, textarea, optgroup, option {
+    font-family: inherit;
+    font-size: inherit;
+    font-style: inherit;
+    font-weight: inherit;
+	}
+
+	/* rest of your styles; like: */
+	
+	
+	
+body {
+    font-size: 0.875em;
+}
+
+
+
+	{
+	  background-color: #FAF9FA;
+	}
+
+
+	th {
+	  text-align: right;
+	}
+
+	td {
+	  text-align: center;
+	}
+
+	p {
+	  text-align: justify;
+	}
+
+
+	{
+	  font-family: sans-serif, "bitstream charter", verdana, sans-serif;
+	}
+	
+	
+	
+
+	
+	
+	#kopfbereich 
+	{
+  	background-image: url("/mnt/daten/Annes Dateien/AAA/Desktop/BH-Konstruktion/Website/BH3.png") no-repeat; left; height:150px;
+  	}
+  	#kopfbereich 
+	{
+  	color:black;
+  	text-align:right;
+  	font-size:2em;
+  	padding:0.4em 0.4em 0 0;
+	}
+
+
+
+
+
+	#steuerung {
+  	background-color:#ceb98e;
+	}
+	
+	
+	
+	
+	#schatten {
+  	background:url("/mnt/daten/Annes Dateien/AAA/Desktop/BH-Konstruktion/Website/schatten.png") repeat-x;
+  	height:12px;
+	}
+	
+	
+	
+	
+	#fußzeilenbereich 
+	{
+  	color:black;
+  	background-color:#ceb98e;
+  	text-align:left;
+  	font-size:1em;
+  	margin-top: 2em
+  	padding:0.4em 0.4em 0 0;
+	}
+	
+
